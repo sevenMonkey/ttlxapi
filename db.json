@@ -7,5 +7,18 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "flashes":{
+    "data":[
+      {
+        "title":"Blockstack或将成为首个IPO的加密货币项目",
+        "desc":"据区块律动今日消息，分布式开发平台 Blockstack 目前正在评估如何为普通矿工发行新代币，IPO 是四个备选项之一，如成功实现，Blockstack 或将成为首个 IPO 的加密货币项目。据悉，Blockstack首席执行官Muneeb Ali 在采访中透露，“在美国范围内，STX 代币被视为证券，所以我们需要一套适应新代币发行的法律框架。”据悉，该法律框架可能是 Reg A /S/D 或 IPO 中的一个。",
+        "image":"",
+        "author":"zhaodong",
+        "created":1564636633
+      },
+    ],
+    "code":200,
+    "msg":"success"
   }
 }
